@@ -3,9 +3,9 @@
 This project is a starter project that includes a dev [container (GitHub Codespace)](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers) that is set up for a python
 development environment.
 
-steve is here. a change.
-steve is still here.
+steve is modified here. a change.
 **steve is actually still here.**
+add this line
 
 The project is meant to be a starter for your chatbot project.
 
